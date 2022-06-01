@@ -1,2 +1,2 @@
 # Operating-systems
-Rozwiązania list zadań systemów operacyjnych w Javie. 
+Rozwiązania list zadań z symulaci systemów operacyjnych w Javie. 
